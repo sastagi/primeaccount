@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PrimeAccount</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Login scren -->
+    <string name="login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="invalid_credentials">Invlaid credentials</string>
+
+
+</resources>
